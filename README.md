@@ -172,7 +172,6 @@ if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgr
     set(hObject,'BackgroundColor','white');
 end
 
-
 % --- Executes during object creation, after setting all properties.
 function time_CreateFcn(hObject, eventdata, handles)
 % hObject    handle to time (see GCBO)
